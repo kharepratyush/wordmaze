@@ -1,0 +1,67 @@
+Enter words :
+Enter count of solutions : 
+h w k x v r o v x x h l 
+j e q g e l j l i a g k
+ l e x q r a o m r u h s 
+w l t v i n f e t s g b 
+o e b p l d c f u x d f 
+f m h m p s t y j x k c 
+y b d p e m t a p t w x 
+y n h i s a y q g t o y 
+a g f v r a w t i r p x 
+i m t p b m o a r k g d 
+e z s d k m a w y a u l 
+o i h b s w d z p e d e 
+
+h d c u h y c n n v h t 
+j e j s x f g v w a f k 
+l y k p q h x t r r h e 
+a l x k f o c e g s u i 
+o x m c x o c x u v g e 
+t m i x n s q y s a h x 
+y g p a e m t u b n d c 
+p n u i s a y q e p x k 
+a l l x r q b t v l u l 
+n m u p f w a l r m n m 
+e w s k x c g j x a d x 
+x i l b t x v s e y h e 
+
+h l k l o m m m j r h d 
+p e q t c h r r b a f k 
+l y s o q y w g r j h g 
+x l w k m a v e u s d x 
+o z a t x n c a u x t e 
+l m a f i s t y a v h n 
+y r u l e m t z g i y u 
+z n x i s a y a l q p r 
+a n m h r t r t o z p m 
+s m l p l v a d r a q s 
+e b s s e c p a m h d t 
+o i f t n x j x q l s e 
+
+h e m n n a y o v r h c 
+b e a e r u r b c a j k 
+l m o k u u s p r a h q 
+s l a w e d g e o s f o 
+o j o m m x c p u w g i 
+e m j c v s w y s g r k 
+y d z c e m t d u h b i 
+s n w i s a y a v h o b 
+a v p v r x h t r u w k 
+d m x p f k z g d a q m 
+e k s x s v h k i s d z 
+d i d c z t o y e e e e 
+
+h v j h z p k w d y h y 
+o e w e a f d j h a y k 
+l y x u d q u b r t h u 
+w l h c f z z e n s f m 
+o x i i y f c t u z e y 
+l m o u x s s y d u u o 
+y i f v e m t k m g s b 
+i n o i s a y t m l s s 
+a v s m r h p s r w h k 
+i m o p w b p h w a n q 
+e u s a w k r f t r d v 
+x i c h a l y v s e z e 
+
